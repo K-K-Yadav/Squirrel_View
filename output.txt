@@ -1,0 +1,47 @@
+[Running] python -u "c:\Users\Admin\Desktop\ScrapeJD\jd.py"
+Fetching webpage...
+Webpage fetched successfully!
+Job Title: Engineering Data Analyst
+
+Job Description:
+
+Affiliated Engineers, Inc. (AEI) is a leading, multidisciplinary consulting engineering firm and collaborative community of over 800 employees who plan, design, and deliver high-performance, innovative, and holistic engineering solutions � positively impacting society and advancing humankind.
+Recognized in the Top 20 Engineering Firms and Top 3 Science and Technology Firms since 2000 by Building Design + Construction Magazine and #34 of the Top 100 Green Design Firms and #119 of the Top 500 Design Firms by Engineering News-Record, AEI is dedicated to designing energy and utility system solutions that balance optimum reliability, environmental compliance, and energy efficiency at today's demand levels with the flexibility to meet future load requirements and fuel sources � through remarkable design and award-winning projects.
+Our work reflects the highest standards in sustainable design practices, showcasing our expertise in planning, analysis, design, construction administration, and commissioning of power generation, chilled water, steam and hot water production, and distribution systems � adding up to over 200 miles of thermal utilities.
+As an
+Engineering Data Analyst
+in
+Rockford, IL
+tied to our
+Madison, WI
+office, you will help us empower our clients to achieve energy-efficient building solutions, save global environments, and create a better, greener future for all. Applicants must be located in or near the Rockford area.
+Why We Need You
+:
+In this role, you will transform raw data into actionable insights that guide business decisions. This role involves collecting, cleaning, analyzing, and visualizing data from multiple sources, while partnering with stakeholders to identify opportunities for process improvement, growth, and efficiency. The ideal candidate is both technically skilled and business-minded, with a passion for uncovering insights through data.
+Expertise of our most successful Data Engineering Analyst:
+Bachelor of Science in Mechanical Engineering/Bachelor of Science in Aerospace Engineering (or other engineering disciplines with applicable experience).
+Effective skills to help you flourish:
+Strong spoken and written communication skills.
+Excellent organization and time management skills.
+Quick technical comprehension and motivation focused on client outcomes.
+Ability to effectively prioritize multiple tasks.
+Thrive in both individual and team environments.
+When you work here, you can expect:
+A flexible, collaborative environment where your well-being matters�because your best work happens when you�re supported.
+Real opportunities to grow�through mentorship, professional development programs, and exposure to high-impact projects across disciplines.
+To collaborate with inspiring teammates who challenge the status quo, foster innovation, and pave the way for future leaders.
+A benefits package that offers health, dental, vision, and retirement, a performance-based year-end bonus, and thoughtful perks tailored to your needs�whether that's a flexible work environment, wellness resources, or community-focused initiatives, we�ll continue to invest in.
+If this dynamic environment and the chance to contribute to transformative projects resonate with your ambitions, we would love to connect with you. Join us and make an impact!
+Apply online at
+https://aeieng.com/about/careers/
+If you know someone who would thrive in this role, please share this posting with them directly via email or through your LinkedIn network.
+AEI is proud to be an EEO/AA Employer/Vet/Disabled.
+
+Not ready to apply or do not see an open position?
+Connect with us
+for general consideration and information.
+
+
+--- SCRAPING COMPLETE ---
+
+[Done] exited with code=0 in 4.285 seconds
